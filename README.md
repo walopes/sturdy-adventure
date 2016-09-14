@@ -1,2 +1,3 @@
-# sturdy-adventure
-Example of a Hello World!
+# Olá Mundo!
+
+This is an example to learning how to use Github!
